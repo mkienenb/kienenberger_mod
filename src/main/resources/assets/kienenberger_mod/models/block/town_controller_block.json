@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "kienenberger_mod:blocks/town_controller_block"
+    }
+}

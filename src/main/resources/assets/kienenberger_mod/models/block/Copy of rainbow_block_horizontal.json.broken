@@ -1,0 +1,25 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "kienenberger_mod:blocks/rainbow-half-transparent",
+        "down": "kienenberger_mod:blocks/rainbow-half-transparent",
+        "up": "kienenberger_mod:blocks/rainbow-half-transparent",
+        "north": "kienenberger_mod:blocks/rainbow-half-transparent",
+        "east": "kienenberger_mod:blocks/rainbow_top",
+        "south": "kienenberger_mod:blocks/rainbow-half-transparent",
+        "west": "kienenberger_mod:blocks/rainbow_bottom"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "kienenberger_mod:blocks/rainbow-half-transparent", "cullface": "down", "rotation": 90 },
+                "up":    { "texture": "kienenberger_mod:blocks/rainbow-half-transparent", "cullface": "up", "rotation": 90 },
+                "north": { "texture": "kienenberger_mod:blocks/rainbow-half-transparent", "cullface": "north", "rotation": 90 },
+                "south": { "texture": "kienenberger_mod:blocks/rainbow-half-transparent", "cullface": "south", "rotation": 90 },
+                "west":  { "texture": "kienenberger_mod:blocks/rainbow_top", "cullface": "west" },
+                "east":  { "texture": "kienenberger_mod:blocks/rainbow_bottom", "cullface": "east" }
+            }
+        }
+    ]
+}

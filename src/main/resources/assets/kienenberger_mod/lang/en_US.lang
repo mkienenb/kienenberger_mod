@@ -1,0 +1,10 @@
+tile.town_controller_block.name=Town Controller Block
+item.town_controller_item.name=Town Controller Item
+item.graceItem.name=Grace Item
+tile.grace_block.name=Grace Block
+item.rainbowItem.name=Rainbow
+tile.rainbow_block.name=Rainbow
+tile.rainbow_chest_block.name=Rainbow
+container.rainbow_tile_entity=Pot of Gold
+entity.diamond_golem.name=Diamond Golem
+itemGroup.kienenbergerMod=KienenbergerMod

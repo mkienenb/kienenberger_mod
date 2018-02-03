@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": { "model": "kienenberger_mod:rainbow_block_vertical" },
+        "facing=up": { "model": "kienenberger_mod:rainbow_block_vertical", "x": 180 },
+        "facing=down": { "model": "kienenberger_mod:rainbow_block_vertical" },
+        "facing=north": { "model": "kienenberger_mod:rainbow_block_horizontal", "y": 90 },
+        "facing=east": { "model": "kienenberger_mod:rainbow_block_horizontal", "y": 180 },
+        "facing=south": { "model": "kienenberger_mod:rainbow_block_horizontal", "y": 270 },
+        "facing=west": { "model": "kienenberger_mod:rainbow_block_horizontal" }
+    }
+}

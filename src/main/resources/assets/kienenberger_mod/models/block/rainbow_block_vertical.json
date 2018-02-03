@@ -1,0 +1,13 @@
+{
+    "ambientocclusion": false,
+    "parent": "block/cube",
+    "textures": {
+        "particle": "kienenberger_mod:blocks/rainbow-half-transparent",
+        "down": "kienenberger_mod:blocks/rainbow_bottom",
+        "up": "kienenberger_mod:blocks/rainbow_top",
+        "north": "kienenberger_mod:blocks/rainbow-half-transparent_90",
+        "east": "kienenberger_mod:blocks/rainbow-half-transparent_90",
+        "south": "kienenberger_mod:blocks/rainbow-half-transparent_90",
+        "west": "kienenberger_mod:blocks/rainbow-half-transparent_90"
+    }
+}

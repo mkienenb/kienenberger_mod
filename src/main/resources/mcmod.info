@@ -1,0 +1,12 @@
+[{
+  "modid": "kienenberger_mod",
+  "name": "Rainbow World Mod",
+  "description": "Rainbow World",
+  "version": "1.0.0.4",
+  "mcversion": "1.10.2",
+  "logoFile": "assets/examplemod/textures/logo.png",
+  "url": "gamenet.org/",
+  "updateJSON": "gamenet.org/versions.json",
+  "authorList": ["Mike Kienenberger"],
+  "credits": "I'd like to thank my kids for forcing me to do this."
+}]
